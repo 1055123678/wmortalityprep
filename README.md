@@ -1,0 +1,1 @@
+`wbmortprep` is an R package designed to preprocess World Bank mortality data. It provides a function to convert datasets from wide format to long format, making them easier to clean, merge, and analyze.
